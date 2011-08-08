@@ -1,3 +1,15 @@
+#Install
+
+Install via NPM
+
+    npm install nicetime
+    
+Or clone this repository
+
+    git clone git://github.com/robinduckett/nicetime.git
+    
+Pull requests welcome!
+
 #API
 
 ## Usage Example #1
