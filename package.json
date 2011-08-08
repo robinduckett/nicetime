@@ -1,0 +1,16 @@
+{ "name": "nicetime"
+, "description": "Twitter-like duration calculations, supports dates in the future or the past"
+, "main": "./index"
+, "author": "Robin Duckett"
+, "version": "0.0.1"
+, "repository" :
+  { "type" : "git"
+  , "url" : "http://github.com/robinduckett/nicetime.git"
+  }
+, "bugs" : { "web" : "http://github.com/robinduckett/nicetime/issues" }
+, "licenses" :
+  [ { "type" : "WTFPL"
+    , "url" : "http://sam.zoy.org/wtfpl/COPYING"
+    }
+  ]
+}
