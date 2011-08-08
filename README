@@ -20,7 +20,7 @@ output example: 17 minutes
         
     console.log(nicetime(new Date().getTime()/1000, to));
     
-output example: 1 hour ago
+output example: about an hour ago
 
 ## Usage Example #3
 
@@ -31,6 +31,6 @@ First parameter defaults to now, so you can do:
     nicetime = require('nicetime'),
     to = (new Date().getTime()/1000) - Math.random() * (60 * 120);
         
-    console.log(nicetime(null, to/1000));
+    console.log(nicetime(null, to));
     
 output example: 23 minutes ago
